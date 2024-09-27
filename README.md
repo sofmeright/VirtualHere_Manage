@@ -24,7 +24,7 @@ If the .ahk script is used first the Autohotkey executable must be passed throug
 # Installation:
 1. Unpack the .exe or the .ahk source file into the folder (optionally where you store the Virtual Here Client/Server executable ~ vhui64.exe). Note: If you wish to use the ".ahk" file (plain-text source code), you must install [Autohotkey](https://www.autohotkey.com).
 2. Set up a task in task scheduler or a command in the Sunshine WebUI to run the script.
-> Extra Credit: To setup the VH Server as a service that runs at boot you can run "VH_Server-install_uninstall.exe" from the same folder that contains the server executable.
+> Extra Credit: To toggle install/uninstall of the VH Server as a service that runs at boot you can run "VH_Server-install_uninstall.exe" from the same folder that contains the server executable.
 
 ### Notes / Hints:
 > This software is intended to make it a smoother experience while you are testing out Virtual Here as a solution for mounting USB devices on your machine to a different PC. The developer of Virtual Here deserves to get paid for their work, buying a license also will enable you to use up to 63 devices. This script is not a substitute for a license by any means. I encourage you to purchase a license if you like the product.
