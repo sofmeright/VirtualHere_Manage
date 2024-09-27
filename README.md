@@ -22,7 +22,7 @@ Toggles the Server. Filename is optional otherwise the server exe is expected to
 If the .ahk script is used first the Autohotkey executable must be passed through as the first arguement.
 
 # Installation:
-1. Unpack the .exe or the .ahk source file into the folder (optionally where you store the Virtual Here Client executable ~ vhui64.exe). Note: If you wish to use the ".ahk" file (plain-text source code), you must install [Autohotkey](https://www.autohotkey.com).
+1. Unpack the .exe or the .ahk source file into the folder (optionally where you store the Virtual Here Client/Server executable ~ vhui64.exe). Note: If you wish to use the ".ahk" file (plain-text source code), you must install [Autohotkey](https://www.autohotkey.com).
 2. Set up a task in task scheduler or a command in the Sunshine WebUI to run the script.
 > Extra Credit: To setup the VH Server as a service that runs at boot you can run "VH_Server-install_uninstall.exe" from the same folder that contains the server executable.
 
