@@ -9,10 +9,13 @@ Kai of <a href="https://precisionplanit.com">PrecisionPlanIT.com</a> presents:
 ### CMD/CLI Arguements:
 Triggers Client_Start launched via script without arguments or executing directly.
 > "C:\<pathto>\VH_Manage.ahk"[/.exe]
+
 Exits the client.
 > "C:\<pathto>\VH_Manage.ahk"[/.exe] Client_Exit
+
 Starts the client. Filename is optional otherwise the client exe is expected to be in the same folder as the script.
 > "C:\<pathto>\VH_Manage.ahk"[/.exe] Client_Start <filename>
+
 Toggles the Server. Filename is optional otherwise the server exe is expected to be in the same folder as the script.
 > "C:\<pathto>\VH_Manage.ahk"[/.exe] Server_Toggle <filename>
 
