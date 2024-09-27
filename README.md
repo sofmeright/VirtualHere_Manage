@@ -27,7 +27,7 @@ If the .ahk script is used first the Autohotkey executable must be passed throug
 > Extra Credit: To toggle install/uninstall of the VH Server as a service that runs at boot you can run "VH_Server-install_uninstall.exe" from the same folder that contains the server executable.
 
 ### Notes / Hints:
-> This software is intended to make it a smoother experience while you are testing out Virtual Here as a solution for mounting USB devices on your machine to a different PC. The developer of Virtual Here deserves to get paid for their work, buying a license also will enable you to use up to 63 devices. This script is not a substitute for a license by any means. I encourage you to purchase a license if you like the product.
+> This software is intended to make it a smoother experience while you are using Virtual Here as a solution for mounting USB devices on your machine to a different PC. When using the free version this will provide similar functionality to being able to install the client as a service if you add it to task scheduler to run at boot or launch via a sunshine command (This is listed as a paid feature however I have no way of detecting whether the server has a license or not). The developer of Virtual Here deserves to get paid for their work, buying a license also will enable you to use up to 63 devices. This script is not a substitute for a license by any means. I encourage you to purchase a license if you like the product.
 
 ### Integrating the tool with Sunshine:
 
