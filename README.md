@@ -1,6 +1,6 @@
 Kai of <a href="https://precisionplanit.com">PrecisionPlanIT.com</a> presents:
 
-# Virtual Here Client - Free Initializer
+# Virtual Here Manager
 > A very simple script with the purpose of launching Virtual Here via CMD/CLI for use with Sunshine, Task Scheduler at boot, etc. When I tried to run Virtual Here directly from Sunshine commands in the Web UI, I was met with dissapointment that my Moonlight client would try to connect for a long time before failing. This could have easily been accomplished with a .bat file, yet I already had .ahk code written for another script.
 
 ### Features:
