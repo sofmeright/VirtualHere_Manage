@@ -36,6 +36,9 @@ If the .ahk script is used first the Autohotkey executable must be passed throug
 > # Example:
 > cmd /C "C:\_Staging\_Staging\VirtualHere\VH_Client-FreeInit.ahk"
 
+Undo command:
+> "C:\<pathto>\VH_Manage.ahk"[/.exe] Client_Exit
+
 - For some strange reason its possible to execute the Virtual Here Client with a .bat but not directly from Sunshine and it is not a syntax issue as we are effectively doing the same thing with the script. I do not know the cause of this.
 - Make sure to check the config.elevated option, admin is needed to launch Virtual Here, the tool will not run w/o elevation.
 - Point the sunshine command to the "VH_Client-FreeInit.ahk", that's all.
