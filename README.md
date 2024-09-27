@@ -47,7 +47,7 @@ Undo command:
 - I don't think so.
 
 ### Planned Features:
-> Nope.
+> Nope. However feel free to raise issues if it does not work, but I find that highly unlikely as well.
 
 ### Dependencies / Requirements:
 > This software seeks to launch Virtual Here as such you *obviously* would need Virtual Here. [Virtual Here Server](https://www.virtualhere.com/windows_server_software) & [Virtual Here Client](https://www.virtualhere.com/usb_client_software)
