@@ -14,10 +14,10 @@ Exits the client.
 > "C:\<pathto>\VH_Manage.ahk"[/.exe] Client_Exit
 
 Starts the client. Filename is optional otherwise the client exe is expected to be in the same folder as the script.
-> "C:\<pathto>\VH_Manage.ahk"[/.exe] Client_Start <filename>
+> "C:\<pathto>\VH_Manage.ahk"[/.exe] Client_Start `<filename`>
 
 Toggles install/uninstall of the Server as a service. Filename is optional otherwise the server exe is expected to be in the same folder as the script.
-> "C:\<pathto>\VH_Manage.ahk"[/.exe] Server_Toggle <filename>
+> "C:\<pathto>\VH_Manage.ahk"[/.exe] Server_Toggle `<filename`>
 
 If the .ahk script is used first the Autohotkey executable must be passed through as the first arguement.
 
